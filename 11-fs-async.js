@@ -1,6 +1,9 @@
 //FS nonblocking method.
 
 const fs = require("fs");
+
+console.log(fs);
+
 //readFile, writeFile
 console.log('Starting');
 
